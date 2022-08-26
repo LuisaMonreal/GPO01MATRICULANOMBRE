@@ -12,7 +12,7 @@ int main()
 	}
 	else ///te falta esto ghfhhbjhvjhFFF
 	{
-		cout << "no es creciente\n";
+		cout << "no es creciente\n"; //falto mas impresion
 	}
 	return main();
 	system("pause");
