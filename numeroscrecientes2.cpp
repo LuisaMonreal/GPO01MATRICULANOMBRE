@@ -10,7 +10,7 @@ int main()
 	{
 		cout << "es creciente\n";
 	}
-	else
+	else ///te falta esto ghfhhbjhvjh
 	{
 		cout << "no es creciente\n";
 	}
